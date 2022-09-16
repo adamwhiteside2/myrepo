@@ -1,0 +1,15 @@
+title: "R Markdown Schedule" author: "Adam Whiteside" date: "9/16/2022" output: html_notebook ---
+
+# Schedule
+
+### STAT 184: Introduction to R Programmaing
+
+One hobby that I love is playing Xbox. The game I play on xbox right now is rainbow six siege, and my favorites are fortnite, star wars battlefront, and rocket league.
+
+### [Next Topic/Class/Hobby]
+
+Another one of my hobbies is playing fantasy football. I love watching football, so playing fantasy adds to the excitement, and I love a good competition.
+
+### [Another Topic/Class/Hobby]
+
+I am in club xc here at penn state, so I run almost every day, and ran cross country and track in high school.We meet every day at rec hall.
